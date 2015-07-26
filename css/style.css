@@ -1,0 +1,20 @@
+h1{
+  color: black;
+}
+p{
+  color: #DFDFDF;
+}
+.mytext{
+  color: white;
+}
+div{
+  font-family: Helvetica;
+  border-radius: 5px;
+  background-color: #8E805A;
+  padding: 20px;
+  width: 50%;
+  margin-left: 25%;
+}
+img{
+  width: 200px;
+}
